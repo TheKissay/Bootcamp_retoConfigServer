@@ -1,0 +1,9 @@
+server:
+  port: 8081
+some:
+  value: Este es el valor de mi variable
+management:
+  endpoints:
+    web:
+      exposures:
+        include:'*'
