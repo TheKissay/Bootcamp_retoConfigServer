@@ -1,7 +1,7 @@
 server:
   port: 8081
 variable1:
-  valor: Este es el valor de mi variable modificada
+  valor: Este es el valor de mi variable modificada 2
 management:
   endpoints:
     web:
