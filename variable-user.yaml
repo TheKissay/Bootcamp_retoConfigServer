@@ -1,7 +1,9 @@
 server:
   port: 8081
-variable1:
-  valor: Este es el valor de mi variable
+Usuario1:
+  nombre: Pepito
+Usuario2:
+  nombre: Margarita
 management:
   endpoints:
     web:

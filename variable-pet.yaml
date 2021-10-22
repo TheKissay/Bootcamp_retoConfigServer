@@ -1,7 +1,7 @@
 server:
   port: 8081
-variable1:
-  valor: Este es el valor de mi variable
+Perro1:
+  nombre: Nombre del perro
 management:
   endpoints:
     web:
